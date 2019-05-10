@@ -1,1 +1,1 @@
-# Node Web Scraping
+# Digimon Image Scraper
